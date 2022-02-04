@@ -54,6 +54,9 @@ body{
   color: #31b184;
   margin-bottom: 8px;
 }
+.blog-preview a{
+  color: #ffffff;
+}
 /* end blog previews  */
 
 /* start blog-details */
